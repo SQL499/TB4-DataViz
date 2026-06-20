@@ -1,0 +1,6 @@
+# Tema oscuro para que el dashboard luzca igual en Streamlit Cloud
+# que en desarrollo. El radar (P8) usa fondo transparente, asi que
+# tambien se ve bien en tema claro si se cambia este archivo.
+[theme]
+base = "dark"
+primaryColor = "#d95f02"
