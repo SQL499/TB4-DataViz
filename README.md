@@ -32,7 +32,7 @@ y lo indica en pantalla. El resto (OWID) cubre 2000-2020 completo.
 
 ## Las 10 preguntas y su visualizacion
 
-| # | Pregunta | Grafico | Pestana |
+| # | Pregunta | Grafico | Pestaña |
 |---|----------|---------|---------|
 | 1 | Lideres de la transicion (renovables) | Slope chart | A |
 | 2 | Trayectoria regional (intensidad de carbono) | Lineas multiples | A |
@@ -43,7 +43,7 @@ y lo indica en pantalla. El resto (OWID) cubre 2000-2020 completo.
 | 7 | America Latina: quienes mejoraron | Barras divergentes | B |
 | 8 | Peru en la region (3 dimensiones) | Radar | C |
 | 9 | Peru vs. vecinos | Lineas multiples | C |
-| 10 | Defensa de diseno | Guia verbal (pestana D) | D |
+| 10 | Defensa de diseno | Guia verbal (pestaña D) | D |
 
 ## Controles interactivos
 
