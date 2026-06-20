@@ -1,4 +1,4 @@
-URL del dashboard en produccion: https://PENDIENTE.streamlit.app  <!-- reemplazar tras desplegar -->
+URL del dashboard en produccion: https://tb4-dataviz-mhsusj3qnnnjayue3cbxrx.streamlit.app/
 
 # TB4 - Dashboard de Transicion Energetica Mundial (2000-2020)
 
